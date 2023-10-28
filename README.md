@@ -1,1 +1,1 @@
-# codingTest
+# 문제 해결 능력
